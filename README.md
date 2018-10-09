@@ -28,3 +28,5 @@ def __init__(self, parentObject, acceleration=Vector((0,0,0)),
     self.relatedObject.scale[2] = 1 + random.random() 
                                   * bpy.context.scene.randomSize
 ~~~
+
+![Planning](Organisation_01.jpg)
